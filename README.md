@@ -44,7 +44,7 @@
 
 <br />
 
-### Languages and Tools:
+### My Recent One's:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shazm12&repo=VFight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shazm12&repo=anonychat.in)](https://github.com/anuraghazra/github-readme-stats)
