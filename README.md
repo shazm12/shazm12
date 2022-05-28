@@ -34,7 +34,11 @@
 [<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][webdevplaylist]
 [<img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />][webdevplaylist]
 [<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][webdevplaylist]
-
+[<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />][webdevplaylist]
 <br />
 <br />
 
