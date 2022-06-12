@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/64892076/173251644-3af965fa-6442-49b8-80f8-7d1158a805a0.png" />
 
 ### Hi there, I'm Shamik - aka [shazm12][website] 👋
 
