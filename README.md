@@ -63,6 +63,10 @@
 
 <br />
 
+---
+### My LeetCode Progress 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/berashamik115?theme=unicorn&font=Fira%20Code&ext=activity)](https://leetcode.com/berashamik115)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" style={{color:white}} src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
