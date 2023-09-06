@@ -3,7 +3,7 @@
 ### Hi there, I'm Shamik - aka [shazm12][website] 👋
 
 
-[![Website](https://img.shields.io/website?label=Shamik'sProtfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamiksportfolio.netlify.app/)
+[![Website](https://img.shields.io/website?label=Shamik'sProtfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shamikthefulldev.netlify.app/)
 
 
 ## I'm a Student, Full Stack Developer , AI and Cyber Sec Enthusiast!!
